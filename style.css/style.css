@@ -1,0 +1,30 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: 'inter', sans-serif;
+}
+
+.title {
+    color: #1ED760 ;
+    font-size: 2.5rem;
+}
+
+img {
+    width: 150px;
+}
+
+.infosec h2 {
+    font-size:1.8rem;
+}
+
+.infosec p {
+    color: #B3B3B3;
+}
+
+.infosec li {
+    color: #b3b3b3;
+}
+
+.infosec ul {
+    list-style: none;
+}
